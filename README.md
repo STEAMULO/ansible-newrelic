@@ -71,3 +71,9 @@ The variables that can be passed to this role and a brief description about them
     - hosts: all
       roles:
         - newrelic
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [toshitanian](https://github.com/toshitanian)
